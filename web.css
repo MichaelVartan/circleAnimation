@@ -1,0 +1,23 @@
+
+.img{
+    width: 300px ;
+    height: 600px ;
+    margin-left: 300px;
+}
+.rect{
+    width: 866px;
+    height: 1366px;
+    border: 6px solid #79C454;
+    margin-left: 300px;
+    margin-top: 300px;
+}
+
+.positionBall {
+    position: relative;
+    bottom: 670px;
+    margin-left: 300px;
+    left: 300px;
+
+
+}
+
